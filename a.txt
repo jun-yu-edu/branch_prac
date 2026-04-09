@@ -1,1 +1,1 @@
-a를 main, new에서 변경함!
+a를 left에서 변경함!
